@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<a href="https://github.com/jgabfalcao"><img src="https://github.com/jgabfalcao" alt="Stars Badge"/></a>
-<a href="https://github.com/jgabfalcao"><img src="https://github.com/jgabfalcao" alt="Forks Badge"/></a>
+<a href="https://github.com/jgabfalcao"><img src="https://img.shields.io/github/issues-pr/minoveaz/github-perfil-readme-asombrosos" alt="Stars Badge"/></a>
+<a href="https://github.com/jgabfalcao"><img src="https://img.shields.io/github/issues-pr/minoveaz/github-perfil-readme-asombrosos" alt="Forks Badge"/></a>
 <a href="https://github.com/minoveaz/github-perfil-readme-asombrosos/pulls"><img src="https://img.shields.io/github/issues-pr/minoveaz/github-perfil-readme-asombrosos" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/minoveaz/github-perfil-readme-asombrosos/issues"><img src="https://img.shields.io/github/issues/minoveaz/github-perfil-readme-asombrosos" alt="Issues Badge"/></a>
 <a href="https://github.com/minoveaz/github-perfil-readme-asombrosos/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/minoveaz/github-perfil-readme-asombrosos?color=2b9348"></a>
