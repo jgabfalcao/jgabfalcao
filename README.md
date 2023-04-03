@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer.
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-João-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-falcão013)
-[![Mail Badge](https://img.shields.io/badge/--@joaaofalcao-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/@joaaofalcao) [![Mail Badge](https://img.shields.io/badge/-jgabfalcao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jgabfalcao@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-@joaaofalcao-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/@joaaofalcao) [![Mail Badge](https://img.shields.io/badge/-jgabfalcao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jgabfalcao@gmail.com)
 
 <!-- TODO: Add last video link -->
 
