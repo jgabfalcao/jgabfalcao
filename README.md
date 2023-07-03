@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Grão de Gente
+- 🔭 I’m currently looking for a new opportunity
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking always to improve my codes.
 - 📫 How to reach me: jgabfalcao@gmail.com
