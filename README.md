@@ -43,7 +43,7 @@
  <br>
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jgabfalcao&theme=tokyo-night&point=00BFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jgabfalcao&custom_title=Contribuições&hide_border=true&&theme=tokyo-night&point=00BFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jgabfalcao&theme=tokyonight&row=1&no-bg=true&column=3&margin-w=15&margin-h=15"/>
